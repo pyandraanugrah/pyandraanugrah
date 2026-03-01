@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya Merupakan Seorang Mahasiswa Semester 4 Teknik Informatika Univesitas Maritim Raja Ali Haji.<br>Saya Merupakan Pribadi Yang Easy Going, Mampu Bekerjasama Dalam Tim.<br>Saya Tertarik Pada Bidang Pengembangan Website, Terutama Di Bagian Backend.<br><br>Kritik Dan Saran Dipersilahkan, Untuk Membuat Saya Berkembang Lebih Baik Ke Depannya!<br>Thanks, And Be Nice!<br>
+Saya Merupakan Seorang Mahasiswa Semester 4 Teknik Informatika Universitas Maritim Raja Ali Haji.<br>Saya Merupakan Pribadi Yang Easy Going, Mampu Bekerjasama Dalam Tim.<br>Saya Tertarik Pada Bidang Pengembangan Website, Terutama Di Bagian Backend.<br><br>Kritik Dan Saran Dipersilahkan, Untuk Membuat Saya Berkembang Lebih Baik Ke Depannya!<br>Thanks, And Be Nice!<br>
 
 
 ## 🌐 Socials:
